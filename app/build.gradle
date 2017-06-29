@@ -30,5 +30,6 @@ dependencies {
     compile 'com.android.support:appcompat-v7:25.3.1'
     testCompile 'junit:junit:4.12'
 
-    compile project(':fuzzybackgroundlibrary')
+//    compile project(':fuzzybackgroundlibrary')
+    compile 'com.github.javaexception:FuzzyBackground:v1.0'
 }
